@@ -1,0 +1,7 @@
+D:\perso\AppPechesPapa\AppPechesPapa\bin\Debug\AppPechesPapa.exe.config
+D:\perso\AppPechesPapa\AppPechesPapa\bin\Debug\AppPechesPapa.exe
+D:\perso\AppPechesPapa\AppPechesPapa\bin\Debug\AppPechesPapa.pdb
+D:\perso\AppPechesPapa\AppPechesPapa\obj\Debug\AppPechesPapa.csprojAssemblyReference.cache
+D:\perso\AppPechesPapa\AppPechesPapa\obj\Debug\AppPechesPapa.csproj.CoreCompileInputs.cache
+D:\perso\AppPechesPapa\AppPechesPapa\obj\Debug\AppPechesPapa.exe
+D:\perso\AppPechesPapa\AppPechesPapa\obj\Debug\AppPechesPapa.pdb
